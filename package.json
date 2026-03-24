@@ -1,0 +1,16 @@
+{
+  "name": "db-migrator",
+  "version": "1.0.0",
+  "description": "Database migration management tool",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "db",
+    "migrator"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
